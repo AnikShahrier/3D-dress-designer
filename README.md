@@ -2,9 +2,9 @@
 
 A powerful, interactive **3D Fashion Configuration Tool** that allows users to design, customize, and visualize dresses in real-time directly from their browser. This project leverages the power of **Three.js** and **React** to bridge the gap between digital fashion and e-commerce.
 
-![Dress Custom 1](DressCustom 1.png)
-![Dress Custom 3](DressCustom 3.png)
-![Dress Custom 4](DressCustom 4.png)
+![Dress Custom 1](DressCustom%201.png)
+![Dress Custom 3](DressCustom%203.png)
+![Dress Custom 4](DressCustom%204.png)
 ---
 
 ## 🚀 Project Purpose
